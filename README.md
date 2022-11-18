@@ -4,33 +4,35 @@ These Notebooks are basically my notes nothing specific. They are coming from di
 
 ## Topics
 
+Topics are all grouped into folders.
+
 ### Maths
 
 These are notebooks that fall within the field of mathematics
 
-- [Sigmoid](https://github.com/EteimZ/My_Notebooks/blob/master/Sigmoid.ipynb): This notebook briefly explains the sigmoid function.
+- [Sigmoid](https://github.com/EteimZ/My_Notebooks/blob/master/Maths/Sigmoid.ipynb): This notebook briefly explains the sigmoid function.
  
-- [Vectors](https://github.com/EteimZ/My_Notebooks/blob/master/Vectors.ipynb): This notebook briefly explains vectors.
+- [Vectors](https://github.com/EteimZ/My_Notebooks/blob/master/Maths/Vectors.ipynb): This notebook briefly explains vectors.
 
 ### Machine learning
 
 ML specific notebooks
 
-- [Classification of Iris Plants](https://github.com/EteimZ/My_Notebooks/blob/master/Classification%20of%20Iris%20Plants.ipynb): Simple classification example with the iris dataset.
+- [Classification of Iris Plants](https://github.com/EteimZ/My_Notebooks/blob/master/ML/Classification%20of%20Iris%20Plants.ipynb): Simple classification example with the iris dataset.
 
-- [Regression with Boston](https://github.com/EteimZ/My_Notebooks/blob/master/Regression%20with%20Boston.ipynb): Simple regression example with the boston dataset.
+- [Regression with Boston](https://github.com/EteimZ/My_Notebooks/blob/master/ML/Regression%20with%20Boston.ipynb): Simple regression example with the boston dataset.
 
-- [Titanic](https://github.com/EteimZ/My_Notebooks/blob/master/Titanic.ipynb): Intro to the titanic dataset.
+- [Titanic](https://github.com/EteimZ/My_Notebooks/blob/master/ML/Titanic.ipynb): Intro to the titanic dataset.
 
 ### Programming
 
 These are notebooks related solely to programming
 
-- [Python_Regression](https://github.com/EteimZ/My_Notebooks/blob/master/Python_Regression.ipynb): This notebook briefly introduces linear regression in python.
+- [Python_Regression](https://github.com/EteimZ/My_Notebooks/blob/master/Programming/Python_Regression.ipynb): This notebook briefly introduces linear regression in python.
 
 
 ### Finance
 
 Notebook related to finance
 
-- [Stock_Analysis](https://github.com/EteimZ/My_Notebooks/blob/master/Stock_Analysis.ipynb): Simple intro to stock price analysis.
+- [Stock_Analysis](https://github.com/EteimZ/My_Notebooks/blob/master/Finance/Stock_Analysis.ipynb): Simple intro to stock price analysis.
