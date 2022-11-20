@@ -14,6 +14,10 @@ These are notebooks that fall within the field of mathematics
  
 - [Vectors](https://github.com/EteimZ/My_Notebooks/blob/master/Maths/Vectors.ipynb): This notebook briefly explains vectors.
 
+- [Derivatives](https://github.com/EteimZ/My_Notebooks/blob/master/Maths/derivatives.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EteimZ/My_Notebooks/blob/master/Maths/derivatives.ipynb)
+
+  A brief inttroduction to the concept of derivatives with relevant charts.
+
 ### Machine learning
 
 ML specific notebooks
